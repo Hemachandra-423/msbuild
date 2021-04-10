@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
-    "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.sln": {}
+    "C:\\Users\\hemac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-      "packagesPath": "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.sln",
-      "outputPath": "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectUniqueName": "D:\\msbuild_project\\ConsoleApp\\Numbers\\Numbers.csproj",
+      "projectName": "Numbers",
+      "projectPath": "D:\\msbuild_project\\ConsoleApp\\Numbers\\Numbers.csproj",
+      "packagesPath": "C:\\Users\\hemac\\.nuget\\packages\\",
+      "outputPath": "D:\\msbuild_project\\ConsoleApp\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hemac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",

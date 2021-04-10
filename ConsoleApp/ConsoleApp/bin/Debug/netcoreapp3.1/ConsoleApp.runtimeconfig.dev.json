@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hemac\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.sln"
+    ]
+  }
+}

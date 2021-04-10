@@ -95,3 +95,5 @@ C:\Jenkins\msbuild_project\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\Un
 C:\Jenkins\msbuild_project\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
 C:\Jenkins\msbuild_project\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
 C:\Jenkins\msbuild_project\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.genruntimeconfig.cache
+D:\msbuild_project\ConsoleApp\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.dll
+D:\msbuild_project\ConsoleApp\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp3.1\UnitTestProject.pdb
